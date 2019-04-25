@@ -5,6 +5,6 @@
     <DisableFody>true</DisableFody>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Equals\Equals.csproj" />
+    <ProjectReference Include="..\Equals4\Equals4.csproj" />
   </ItemGroup>
 </Project>

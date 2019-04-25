@@ -10,8 +10,8 @@
     <PackageReference Include="FodyHelpers" Version="4.2.1" />
     <PackageReference Include="xunit" Version="2.4.1" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.1" />
-    <ProjectReference Include="..\Equals.Fody\Equals.Fody.csproj" />
-    <ProjectReference Include="..\Equals\Equals.csproj" />
+    <ProjectReference Include="..\Equals4.Fody\Equals4.Fody.csproj" />
+    <ProjectReference Include="..\Equals4\Equals4.csproj" />
     <ProjectReference Include="..\AssemblyToProcess\AssemblyToProcess.csproj" />
   </ItemGroup>
 </Project>

@@ -1,3 +1,10 @@
+This package/repository is a fork of Equals.Fody to stick with Fody 4 which
+still supports MSBuild 15.  The NuGet package identifier is `Equals4.Fody`.
+
+The original REAMDE follows:
+
+----
+
 [![Chat on Gitter](https://img.shields.io/gitter/room/fody/fody.svg?style=flat&max-age=86400)](https://gitter.im/Fody/Fody)
 [![NuGet Status](http://img.shields.io/nuget/v/Equals.Fody.svg?style=flat&max-age=86400)](https://www.nuget.org/packages/Equals.Fody/)
 
